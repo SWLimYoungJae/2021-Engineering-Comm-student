@@ -114,7 +114,7 @@ Link: [Google][googlelink]
 
 진하게: __double underscores__
 
-취소선: ~~cancelline~~  ~~ 글 ~~
+취소선: ~~cancelline~~  ~~ 내용 ~~
 
 
 
