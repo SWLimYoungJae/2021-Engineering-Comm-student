@@ -148,7 +148,7 @@ ___
 
 [Text to display][identifier] will display a link.
 
-[identifier]:http://
+[identifier]:http://www.anu.ac.kr
 
 [This link] will do th same as well. It works as the identifier itself.
 
