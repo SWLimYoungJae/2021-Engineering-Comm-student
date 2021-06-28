@@ -94,6 +94,17 @@ Link: [Google][googlelink]
 [googlelink]: https://google.com "Go google"
 
 
+[강조]
+기울임: *single asterisks*
+기울임: _single underscores_
+진하게: **double asterisks**
+진하게: __double underscores__
+취소선: ~~cancelline~~  ~~ 글 ~~
+
+
+
+
+
 
 
 2021 공학커뮤니케이션 수업
