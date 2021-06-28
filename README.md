@@ -165,7 +165,9 @@ ___
 
 [identifier]:http://www.anu.ac.kr
 
-**학과** : 컴퓨터공학과
+**학과** : [컴퓨터공학과][identifier]
+
+[identifier]:https://comeng.andong.ac.kr/
 
 
 
