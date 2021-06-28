@@ -153,6 +153,38 @@ ___
 [This link] will do th same as well. It works as the identifier itself.
 
 
+# 나의소개
+
+## 프로필
+
+**이름** : 임영재
+
+**나이** : 25
+
+**학교** : [안동대학교][identifier]
+
+[identifier]:http://www.anu.ac.kr
+
+**학과** : 컴퓨터공학과
+
+
+
+
+
+
+
+
+[안동대학교][identifier] 는 제가 다니고 있는 대학교입니다.
+
+[identifier]:http://www.anu.ac.kr
+
+저희 캠퍼스는 이렇게 생겼습니다.
+
+<img src="https://user-images.githubusercontent.com/86451061/123567058-48eaa600-d7fc-11eb-886c-cb524c11df5c.PNG" width="320px" height="240px"
+title="px(픽셀) 크기 설정" alt="Github_fork"></img><br/>
+
+
+
 
 
 
