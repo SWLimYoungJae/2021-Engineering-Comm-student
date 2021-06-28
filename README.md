@@ -175,19 +175,4 @@ ___
 
 
 
-
-[안동대학교][identifier] 는 제가 다니고 있는 대학교입니다.
-
-[identifier]:http://www.anu.ac.kr
-
-저희 캠퍼스는 이렇게 생겼습니다.
-
-<img src="https://user-images.githubusercontent.com/86451061/123567058-48eaa600-d7fc-11eb-886c-cb524c11df5c.PNG" width="320px" height="240px"
-title="px(픽셀) 크기 설정" alt="Github_fork"></img><br/>
-
-
-
-
-
-
 2021 공학커뮤니케이션 수업
