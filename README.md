@@ -22,6 +22,7 @@
 3. 세번째
 
 [.대신 )로했을때]
+
 1) 첫번째
 2) 두번째
 3) 세번째
@@ -32,6 +33,7 @@
 2) 두번째
 
 [순서필요없음]
+
 * 빨강
 * 녹색
 * 파랑
@@ -43,18 +45,21 @@
 - 파랑
 
 [교차가능]
+
 * 1단계
   - 2단계
     + 3단계
     + 4단계
 
 [4칸띄우기]
+
 * 1단계
   - 2단계
     + 3단계
         + 4단계
 
 [띄워쓰기]
+
 This is a normal paragraph:
 
 This is a code block.
@@ -63,12 +68,14 @@ end code block
 
 
 [안띄워쓰기]
+
 This is a normal paragraph:
 This is a code block.
 end code block.
 
 
 [코드블럭]
+
 ```
 public class BootSpringBootApplication {
 public static void main(String[] args) {
@@ -78,6 +85,7 @@ System.out.println("Hello, Honeymon");
 ```
 
 [수평선]
+
 * * *
 ***
 *****
@@ -85,16 +93,19 @@ System.out.println("Hello, Honeymon");
 ---------------------------------------
 
 [링크]
+
 [link keyword][id]
 [id]: URL "Optional Title here"
 
 
 [링크 ]
+
 Link: [Google][googlelink]
 [googlelink]: https://google.com "Go google"
 
 
 [강조]
+
 기울임: *single asterisks*
 
 기울임: _single underscores_
