@@ -117,6 +117,10 @@ Link: [Google][googlelink]
 취소선: ~~cancelline~~  ~~ 내용 ~~
 
 
+[이미지]
+
+![Alt text](https://user-images.githubusercontent.com/79644567/123537966-
+4b51ef00-d76d-11eb-9c92-ef95897e1a1e.PNG "Optional title")
 
 <img src="https://user-images.githubusercontent.com/79644567/123537966-
 4b51ef00-d76d-11eb-9c92-ef95897e1a1e.PNG" width="320px" height="240px"
