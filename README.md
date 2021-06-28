@@ -144,6 +144,16 @@ ___
 | 3 | 뿡뿡이 | 51 | 9/13 |
 
 
+[Link]
+
+[Text to display][identifier] will display a link.
+
+[identifier]:http://
+
+[This link] will do th same as well. It works as the identifier itself.
+
+
+
 
 
 2021 공학커뮤니케이션 수업
