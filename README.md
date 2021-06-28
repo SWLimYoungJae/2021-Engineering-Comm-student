@@ -146,7 +146,7 @@ ___
 
 [Link]
 
-[Text to display][identifier] will display a link.
+[안동대학교][identifier] will display a link.
 
 [identifier]:http://www.anu.ac.kr
 
